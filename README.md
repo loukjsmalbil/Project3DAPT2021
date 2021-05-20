@@ -43,19 +43,13 @@ The following deliverables should be pushed to your branch:
 
 - **Python files** and **Jupyter notebooks**. These files should be self sufficient. Someone with no exposure to the problem should be able to read the notebooks and understand your analysis. Make sure your notebooks look clean and well documented by making proper use of comments, docstrings and markdowns. We strongly suggest to start the notebook with and Introduction and conclude it with a Conclusions section. 
 - **An empty data folder** with a readme file inside that explains the data set
- 
-  
-The following deliverables should **NOT** be pushed to your branch
-but stored [here](https://drive.google.com/drive/folders/16Cq1u10UHATWauvB9aurxaWzhGUF9VyQ?usp=sharing) 
-
 - **A slide deck** containing your analysis and your visualisations.
-- **DATA** Please do not upload any data to the repository but place a link to the data in your jupyter notebook as we usually do. You can then ask the reader in the notebook to download the data and place them locally in the provided empty data folder. Remember to use relative paths in the notebook. The link in the notebook can point to the original data set or to our google drive [here](https://drive.google.com/drive/folders/16Cq1u10UHATWauvB9aurxaWzhGUF9VyQ?usp=sharing) <br>
- 
+- **DATA** Store the data in a seperate folder in your repository or - if the data is too large - in a online DB or the cloud (e.g. AWS/GoogleDrive etc.). 
 
 
 ## Resources and suggestions
 
-* **Find a data set to process** <br>
+* **Find a data set to process (if you do not want to use your project 2 data or if you need more data)** <br>
 A great place to start looking would be <br>
 [Awesome Public Data Sets](https://github.com/awesomedata/awesome-public-datasets)<br> 
 [Kaggle Data Sets](https://www.kaggle.com/datasets)<br>
