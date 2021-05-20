@@ -13,6 +13,7 @@ The goal of this project is to practice creating and interpreting different type
 The technical requirements for this project are as follows:
 
 Come up with an interesting research question and find data to answer your question.  
+- Create a project3 repository on Github. 
 - Create a Jupyter notebook or Python file to analyze the data.
  - Using your data, create a minimum of one scatter plot, one histogram, one box plot and one bar graph (you can add more than one visualization of each type of you choose) and a time series (lineplot). 
  Your plots should contain the proper labeling of the x and y axis and units of the quantities plotted (if applicable) as well as a title for the graph.
@@ -41,10 +42,9 @@ Come up with an interesting research question and find data to answer your quest
 
 ## Necessary Deliverables
 
-The following deliverables should be pushed to your branch:
+The following items should be in your repository by the end of the project day (May 29th 2021):
 
 - **Python files** and **Jupyter notebooks**. These files should be self sufficient. Someone with no exposure to the problem should be able to read the notebooks and understand your analysis. Make sure your notebooks look clean and well documented by making proper use of comments, docstrings and markdowns. We strongly suggest to start the notebook with and Introduction and conclude it with a Conclusions section. 
-- **An empty data folder** with a readme file inside that explains the data set
 - **A slide deck** containing your analysis and your visualisations.
 - **DATA** Store the data in a seperate folder in your repository or - if the data is too large - in a online DB or the cloud (e.g. AWS/GoogleDrive etc.). 
 
