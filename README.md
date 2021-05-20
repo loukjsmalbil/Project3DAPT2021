@@ -6,8 +6,6 @@
 
 The goal of this project is to practice creating and interpreting different types of visualizations using real world data.
 
-**You will be working individually for this project.**
-
 ---
 
 ## Technical Requirements
@@ -16,7 +14,7 @@ The technical requirements for this project are as follows:
 
 Come up with an interesting research question and find data to answer your question.  
 - Create a Jupyter notebook or Python file to analyze the data.
- - Using your data, create a minimum of one scatter plot, one histogram, one box plot and one bar graph (you can add more than one visualization of each type of you choose). 
+ - Using your data, create a minimum of one scatter plot, one histogram, one box plot and one bar graph (you can add more than one visualization of each type of you choose) and a time series (lineplot). 
  Your plots should contain the proper labeling of the x and y axis and units of the quantities plotted (if applicable) as well as a title for the graph.
  - Feel free to use matplotlib, seaborn, or plotly as you see fit to best convey
    the message and the story behind the data.
