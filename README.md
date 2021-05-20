@@ -22,6 +22,10 @@ Come up with an interesting research question and find data to answer your quest
 
 ## Presentation Guideline and Criteria
 
+### Date
+
+* Saturday, May 29th 2021 at 3 pm. 
+
 ### Format
 
 * Presentation Time: 10 minutes max.
