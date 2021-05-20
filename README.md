@@ -51,6 +51,7 @@ The following deliverables should be pushed to your branch:
 
 ## Resources and suggestions
 
+* **Make sure that your plots are insightful!**
 * **Find a data set to process (if you do not want to use your project 2 data or if you need more data)** <br>
 A great place to start looking would be <br>
 [Awesome Public Data Sets](https://github.com/awesomedata/awesome-public-datasets)<br> 
