@@ -46,7 +46,7 @@ The following items should be in your repository by the end of the project day (
 
 - **Python files** and **Jupyter notebooks**. These files should be self sufficient. Someone with no exposure to the problem should be able to read the notebooks and understand your analysis. Make sure your notebooks look clean and well documented by making proper use of comments, docstrings and markdowns. We strongly suggest to start the notebook with and Introduction and conclude it with a Conclusions section. 
 - **A slide deck** containing your analysis and your visualisations.
-- **DATA** Store the data in a seperate folder in your repository or - if the data is too large - in a online DB or the cloud (e.g. AWS/GoogleDrive etc.). 
+- **A Data Folder** containing the data. If the data are too large, however, you may store them in a online DB or the cloud (e.g. AWS/GoogleDrive etc.). In that case, make sure there is an readme.md file in this folder with details on how the data can be found and retrieved. 
 
 
 ## Resources and suggestions
